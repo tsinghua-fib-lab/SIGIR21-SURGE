@@ -15,7 +15,7 @@ Please cite our paper if you use this repository.
 }
 ```
 
-The code is tested under a Linux desktop with TensorFlow 1.12.3 and Python 3.6.8.
+The code is tested under a Linux desktop with TensorFlow 1.15.2 and Python 3.6.8.
 
 
 
